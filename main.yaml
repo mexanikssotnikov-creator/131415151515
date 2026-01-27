@@ -122,11 +122,6 @@ payload:
 - DOMAIN-SUFFIX,quadratichq.com,PROXY
 - DOMAIN-SUFFIX,z.ai,PROXY
 - DOMAIN-SUFFIX,rowzero.com,PROXY
-- PROCESS-NAME,Whatsapp.exe,PROXY
-- PROCESS-NAME,Telegram.exe,PROXY
-- PROCESS-NAME,Trae.exe,PROXY
-- PROCESS-NAME,Windsurf.exe,PROXY
-- PROCESS-NAME,Discord.exe,PROXY
 - DOMAIN-SUFFIX,cloudflare.com,PROXY
 - DOMAIN-SUFFIX,artstation.com,PROXY
 - DOMAIN-SUFFIX,bitru.org,PROXY
@@ -225,3 +220,9 @@ payload:
 - DOMAIN-SUFFIX,cdn-lfs.hf.co,PROXY
 - DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co,PROXY
 - DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co,PROXY
+- PROCESS-NAME,Whatsapp.exe,PROXY
+- PROCESS-NAME,Telegram.exe,PROXY
+- PROCESS-NAME,Trae.exe,PROXY
+- PROCESS-NAME,Windsurf.exe,PROXY
+- PROCESS-NAME,Discord.exe,PROXY
+- PROCESS-NAME,Code.exe,PROXY
