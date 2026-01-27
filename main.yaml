@@ -220,6 +220,7 @@ payload:
 - DOMAIN-SUFFIX,cdn-lfs.hf.co,PROXY
 - DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co,PROXY
 - DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co,PROXY
+- DOMAIN-SUFFIX,pencil.dev,PROXY
 - PROCESS-NAME,Whatsapp.exe,PROXY
 - PROCESS-NAME,Telegram.exe,PROXY
 - PROCESS-NAME,Trae.exe,PROXY
