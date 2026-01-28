@@ -1901,6 +1901,8 @@ payload:
 - DOMAIN-SUFFIX,yarnpkg.com
 - DOMAIN-SUFFIX,youngliving.com
 - DOMAIN-SUFFIX,zerotier.com
+- DOMAIN-SUFFIX,akulaops.ru
+- IP,62.173.141.23
 - IP-CIDR,173.245.48.0/20
 - IP-CIDR,103.21.244.0/22
 - IP-CIDR,103.22.200.0/22
